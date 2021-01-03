@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# IMPORTANT NOTE: create .env.local file in the root folder of the project and add two variables there:
+
+```
+REACT_APP_CLIENT_ID=
+REACT_APP_CLIENT_SECRET=
+```
