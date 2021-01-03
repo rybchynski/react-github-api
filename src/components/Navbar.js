@@ -16,12 +16,6 @@ export const Navbar = () => (
           About
         </NavLink>
       </li>
-
-      {/* <li className="nav-item">
-        <NavLink to="/" className="nav-link">
-          Profile
-        </NavLink>
-      </li> */}
     </ul>
   </nav>
 );
